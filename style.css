@@ -2,5 +2,9 @@
     background-color: bisque;
 }
 li {
-    font-family: Papyrus, sans-serif;
+    display: inline-block;
+    font-family: Papyrus, sans-serif, text-color #93C572;
+    padding: 10px;
+    background-color: #93C572;
 }
+
